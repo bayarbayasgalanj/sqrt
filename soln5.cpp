@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int a, b, s;
-    cin >> a >> b;
-    s = a + b;
+    int a, s;
+    cin >> a;
+    s = a * 260;
     cout << s << endl;
     return 0;
 }

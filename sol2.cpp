@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int a;
     cout << "sdsdfsd-------------";
-    cin >> a;
+    // cin >> a;
     cout << "result-------------"<<a;
     // Энд юу бичих вэ?
     return 0;
